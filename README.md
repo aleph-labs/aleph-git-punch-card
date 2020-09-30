@@ -1,5 +1,7 @@
 # Git Punch Card
 
+This is a simple script to help you generate punch card pngs.
+
 ## Prerequisites
 
 - macOS (other operating systems probably work, but has never been tested).
